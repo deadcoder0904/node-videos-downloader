@@ -1,0 +1,12 @@
+{
+  "name": "coursehunters-video",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "download": "^7.1.0"
+  },
+  "scripts": {
+    "start": "node index"
+  }
+}
